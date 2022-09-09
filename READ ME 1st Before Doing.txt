@@ -1,0 +1,5 @@
+Everyone
+
+1. Please add -<Whatever parts you doing> in ur classname to avoid css crashes  [Eg. Style-table-User]
+2. If your code is not working please do not import into the components best is to do max of 2 different components
+3. We need to follow the flow of the ERD
